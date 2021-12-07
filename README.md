@@ -12,7 +12,7 @@ Baseando-se nos testes automatizados já criados neste repo - similares aos feit
 1. Implemente os métodos marcados com um `//@TODO: comment`  em cada uma das respectivas services,
 na ordem que preferir:
 
-* [ ] _services/StatementsService_
+* [x] _services/StatementsService_
 * [ ] _services/WeirdMathService_
 * [ ] _services/ReferencesService_
 * [ ] _services/ObjectMethodsService_
@@ -76,7 +76,7 @@ project
   * [ ] Deve entender tipos de referência e Mutability vs Immutability, e implementar soluções copiando ou não referências de objetos.
 
 - StatementsService
-  * [ ] Deve entender o uso de conditional statements no Javascript e seus respectivos retornos em diferentes cenários.
+  * [x] Deve entender o uso de conditional statements no Javascript e seus respectivos retornos em diferentes cenários.
 
 - WeirdMathService
   * [ ] Deve entender o fluxo de vida do Javascript e as coerções implícitas que ocorrem em expressões matemáticas.
